@@ -3,8 +3,7 @@ some = "Text";
 let str: string;
 
 if (typeof some === "string") {
-  console.log(some);
-  //   str = some;
+  str = some;
 }
 
 export {};
